@@ -36,4 +36,4 @@ A simple Python console application to manage students, courses, enrollments, an
 ```bash
 python main.py
 
-ط
+
