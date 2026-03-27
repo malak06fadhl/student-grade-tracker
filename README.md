@@ -24,6 +24,16 @@ A simple Python console application to manage students, courses, enrollments, an
 - grades.txt
 - README.md
 
+## Screenshots
+
+### Main Menu
+![Main Menu](main-menu.png)
+
+### Student Report
+![Student Report](student-report.png)
+
 ## How to Run
 ```bash
 python main.py
+
+ط
